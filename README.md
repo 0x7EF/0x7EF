@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmed A. Benbouzid</h1>
+<h1 align="center">Hi !, I'm Ahmed A. Benbouzid</h1>
 
 <br><br><br><br>
 **NULL is just a Macro for 0**
